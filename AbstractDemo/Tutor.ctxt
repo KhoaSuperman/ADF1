@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=_name\ _hour\ _batch
+comment0.target=Tutor(java.lang.String,\ int,\ int)
+comment1.params=
+comment1.target=double\ computeSalary()
+numComments=2

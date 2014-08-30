@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=numberOfStudent
+comment0.target=StudentManage(int)
+comment1.params=s
+comment1.target=void\ addStudent(Student)
+comment2.params=
+comment2.target=void\ displayStudents()
+comment3.params=name
+comment3.target=void\ searchStudentByName(java.lang.String)
+numComments=4

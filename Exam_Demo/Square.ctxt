@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=_width\ _height\ _color
+comment0.target=Square(int,\ int,\ java.lang.String)
+comment1.params=
+comment1.target=float\ getArea()
+numComments=2

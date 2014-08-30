@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=_id\ _name\ _toan\ _talent
+comment0.target=HighSchoolTalentStudent(int,\ java.lang.String,\ int,\ java.lang.String)
+numComments=1

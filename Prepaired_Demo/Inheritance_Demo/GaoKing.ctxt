@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=sutu\ ho\ camap
+comment0.target=GaoKing(GaoSuTu,\ GaoHo,\ GaoCaMap)
+comment1.params=
+comment1.target=void\ gaoSuTuSkill_1()
+comment2.params=
+comment2.target=void\ gaoSuTuSkill_2()
+comment3.params=
+comment3.target=void\ gaoHoSkill_1()
+comment4.params=
+comment4.target=void\ gaoCaMapSkill_1()
+numComments=5

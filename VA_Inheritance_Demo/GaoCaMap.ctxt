@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=_health\ _mana
+comment0.target=GaoCaMap(int,\ int)
+comment0.text=\n\ \ \ int\ health;\n\ \ \ int\ mana;\n\ \ \ String\ name;\n
+numComments=1

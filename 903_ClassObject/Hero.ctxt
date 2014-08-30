@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=_name\ _health\ _mana\ _strength\ _skill
+comment0.target=Hero(java.lang.String,\ int,\ int,\ int,\ java.lang.String)
+comment1.params=
+comment1.target=void\ run()
+comment2.params=heroName
+comment2.target=void\ attack(java.lang.String)
+comment3.params=h\ damage
+comment3.target=void\ attackHero(Hero,\ int)
+comment4.params=h
+comment4.target=void\ kill(Hero)
+numComments=5
